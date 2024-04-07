@@ -1,2 +1,2 @@
 # Deep Learning
-Repo con notebooks del curso de Deep Learning
+Repo con notebooks y proyectos del curso de Deep Learning
