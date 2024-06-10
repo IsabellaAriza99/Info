@@ -2,7 +2,9 @@
 <h1><font color='0B5345'> <center>
 Curso de Deep Learning 2024-01 </center></font></h1>
 <h2><font color='0B5345'> <center>
-Proyecto Deep Learning: Segmentación automática de tumores cerebrales a partir de imágenes de resonancia magnética estructural </center></font></h2>
+Proyecto Deep Learning: 
+
+Segmentación automática de tumores cerebrales a partir de imágenes de resonancia magnética estructural </center></font></h2>
 <h3><font color='0B5345'> <center>
 </center></font></h3>
 <font  face="Courier New" size="3">
